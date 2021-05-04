@@ -1,5 +1,5 @@
 ### Hi there 👋🏼
-#### 😄 Pronouns: He/Him/They
+#### 😄 Pronouns: He/Him/El/They
 <!--
 **Gillysuit/Gillysuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
