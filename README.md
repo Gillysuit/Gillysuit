@@ -1,5 +1,8 @@
-### Hi there 👋🏼
-#### 😄 Pronouns: He/Him/El/They
+### 🌱 Hi, I’m Gil — I build delightful web experiences and mentor devs who want to lead.
+
+I’m currently leading engineering at [Complex Shop](https://complex.com/shop), where we’re evolving our headless Shopify + Remix stack to handle large-scale drops, complex merchandising, and creative storytelling.  
+
+
 <!--
 **Gillysuit/Gillysuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
