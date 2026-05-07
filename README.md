@@ -1,6 +1,6 @@
 ### 🌱 Hi, I’m Gil — I build delightful web experiences and mentor devs who want to lead.
 
-I’m currently leading engineering at [Complex Shop](https://complex.com/shop), where we’re evolving our headless Shopify + Remix stack to handle large-scale drops, complex merchandising, and creative storytelling.  
+I’m currently leading engineering at [Curology](https://curology.com/) migrating a complex 15yr old codebase and bringing it into modernity with Shopify headless commerce to help millions of patients feel good in their skin.
 
 
 <!--
